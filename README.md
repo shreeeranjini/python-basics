@@ -1,2 +1,2 @@
 # python-basics
-learn python
+learn python from basics
