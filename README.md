@@ -1,3 +1,3 @@
 # python-basics
-learn python
-December
+learn python from basics
+October
